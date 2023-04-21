@@ -1,6 +1,6 @@
 Powiązane z nauką testera
 
-Connecting to Jira Connecting to Jenkins
+Connected to Jenkins
 
 Added connection to main branch
 
