@@ -15,4 +15,4 @@ Połączenie z Testiny (alternatywa darmowa dla Testrail) https://app.testiny.io
 Przydatne materiały
 SCALA Tutorial https://www.youtube.com/watch?v=DzFt0YkZo8M
 Gatling language https://gatling.io/
-
+  dodatkowo baza komputerów gatling https://computer-database.gatling.io/computers
