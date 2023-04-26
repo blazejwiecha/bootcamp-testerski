@@ -11,3 +11,7 @@ Połączenie Jiry z Githubem https://blazejcloud.atlassian.net/jira/software/pro
 
 Połączenie z Testiny (alternatywa darmowa dla Testrail) https://app.testiny.io/p/2/dashboard
 
+
+Przydatne materiały
+SCALA Tutorial https://www.youtube.com/watch?v=DzFt0YkZo8M
+
