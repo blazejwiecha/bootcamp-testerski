@@ -23,5 +23,8 @@ Gatling language https://gatling.io/
 BLOG Gatling https://www.ivankrizsan.se/?s=gatling
 
 Przydatne https://awesomeopensource.com/
+
           https://www.infoq.com/articles/load-testing-apis-gatling/
+          
+          https://github.com/MarneeDear/presentations
           
