@@ -1,5 +1,6 @@
 Zestaw materiałów oraz przydatne linki związane z pracą testera oraz nauką w tym kierunku
 
+Szkolenie z Udemy w GitHub https://github.com/CyfrowyTrener/TestowanieOprogramowania
 
 Connected to Jenkins http://localhost:8080/
 
