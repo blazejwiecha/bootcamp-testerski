@@ -1,5 +1,10 @@
 Zestaw materiałów oraz przydatne linki związane z pracą testera oraz nauką w tym kierunku
 
+1 szkolenie Udemy
+
+2 szkolenie Udemy https://www.udemy.com/course/kurs-testowania-oprogramowania
+
+
 Szkolenie z Udemy w GitHub https://github.com/CyfrowyTrener/TestowanieOprogramowania
 
 Connected to Jenkins http://localhost:8080/
