@@ -37,3 +37,5 @@ https://github.com/MarneeDear/presentations
 
 ISTQB sylabus do pobrania https://sjsi.org/ist-qb/do-pobrania/
           
+Automatyzacja
+Plugin Selenium
