@@ -36,6 +36,8 @@ https://www.infoq.com/articles/load-testing-apis-gatling/
 https://github.com/MarneeDear/presentations
 
 ISTQB sylabus do pobrania https://sjsi.org/ist-qb/do-pobrania/
-          
+ 
+Kolejne ciekawe strony : https://bubble.io 
+ 
 Automatyzacja
 Plugin Selenium
