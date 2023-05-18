@@ -38,6 +38,7 @@ https://github.com/MarneeDear/presentations
 ISTQB sylabus do pobrania https://sjsi.org/ist-qb/do-pobrania/
  
 Kolejne ciekawe strony : https://bubble.io 
+Jira alternative https://app.plane.so/my-testing-workspace
  
 Automatyzacja
 Plugin Selenium
