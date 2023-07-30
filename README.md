@@ -28,6 +28,8 @@ Gatling language https://gatling.io/
 
 BLOG Gatling https://www.ivankrizsan.se/?s=gatling
 
+Mały e-book 7 top narzędzi CI/CD https://wkontenerach.notion.site/7-TOP-Narz-dzi-CI-CD-626ae4609344410a8492a6447f142af8
+
 Przydatne: 
 https://awesomeopensource.com/
 
